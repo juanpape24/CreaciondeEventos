@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Creacion de Eventos</string>
+    <string name="horaI">Hora de Inicio</string>
+    <string name="horaF">Hora final</string>
+    <string name="direccion">Direccion</string>
+    <string name="descripcion">Descripción</string>
+    <string name="idEvento">Id Evento</string>
+    <string name="categorias">Categorias</string>
+    <string name="fecha">Fecha</string>
+    <string name="nombre">Nombre</string>
+
+</resources>
